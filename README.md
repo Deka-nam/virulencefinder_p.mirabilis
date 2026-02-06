@@ -181,10 +181,10 @@ For uropathogenic P. mirabilis, key virulence factors to look for:
 ## Citation
 
 If you use this database, please cite:
-- Chen, L., Yang, J., Yu, J., Yao, Z., Sun, L., Shen, Y., & Jin, Q. (2005). VFDB: a reference database for bacterial virulence factors. Nucleic acids research, 33(Database issue), D325–D328. https://doi.org/10.1093/nar/gki008
-- Pearson, M. M., Sebaihia, M., Churcher, C., Quail, M. A., Seshasayee, A. S., Luscombe, N. M., Abdellah, Z., Arrosmith, C., Atkin, B., Chillingworth, T., Hauser, H., Jagels, K., Moule, S., Mungall, K., Norbertczak, H., Rabbinowitsch, E., Walker, D., Whithead, S., Thomson, N. R., Rather, P. N., … Mobley, H. L. (2008). Complete genome sequence of uropathogenic Proteus mirabilis, a master of both adherence and motility. Journal of bacteriology, 190(11), 4027–4037. https://doi.org/10.1128/JB.01981-07
-- Deka, N., Brauer, A. L., Connerton, K., Hanson, B., Walker, J. N., & Armbruster, C. E. (2025). Pangenome Analysis of Proteus mirabilis Reveals Lineage-Specific Antimicrobial Resistance Profiles and Discordant Genotype-Phenotype Correlations. bioRxiv : the preprint server for biology, 2025.11.21.689858. https://doi.org/10.1101/2025.11.21.689858
-
+- VFDB: Chen L, et al. (2016) VFDB: a reference database for bacterial virulence factors. Nucleic Acids Res.
+- P. mirabilis HI4320: Pearson MM, et al. (2008) Complete genome sequence of uropathogenic Proteus mirabilis. J Bacteriol.
+- Virulence genes in P. mirabilis: Deka N, et al. (2025) Pangenome Analysis of Proteus mirabilis Reveals Lineage-Specific Antimicrobial Resistance Profiles and Discordant Genotype-Phenotype Correlations. bioRxiv
+  
 ## Version
 
 - Database version: 1.0
